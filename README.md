@@ -5,7 +5,7 @@
 ## Question: Does sea ice extent have a relationship with chlorophyll-a concentrations in Western Alaska coastal waters?
 
 ## Data: 
-### Sea-ice data: https://polarwatch.noaa.gov/erddap/files/nsidcCDRiceSQsh1day/2017/seaice_conc_daily_sh_f17_20170807_v03r01.nc 
+### Sea-ice data: https://polarwatch.noaa.gov/erddap/griddap/nsidcCDRice_nh_grid.html
 ### Chlorophyll-a Data: https://coastwatch.pfeg.noaa.gov/erddap/griddap/nesdisVHNnoaaSNPPnoaa20chlaGapfilledDaily.html
 
 ## Description:
