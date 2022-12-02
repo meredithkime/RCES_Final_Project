@@ -7,11 +7,9 @@
 ## Data: 
 ### Sea-ice data: https://polarwatch.noaa.gov/erddap/files/nsidcCDRiceSQsh1day/2017/seaice_conc_daily_sh_f17_20170807_v03r01.nc 
 ### Chlorophyll-a Data: https://coastwatch.pfeg.noaa.gov/erddap/griddap/nesdisVHNnoaaSNPPnoaa20chlaGapfilledDaily.html
-### Nutrient Data: https://www.ncei.noaa.gov/access/world-ocean-database/bin/getgeodata.pl?Depth=O&WorldOcean.x=392&WorldOcean.y=96
-
 
 ## Description:
-### Here, I will analyze the relationship between sea ice extent on algal blooms. This will be done using sea ice cover data compared to chl-a data as a proxy for phytoplankton abundance, and nutrient data to understand how the bloom is fueled. The figures produced from this analysis will allow for a better understanding of how reduced sea ice cover under climate change may be effecting the timing of algal blooms and a release of nutrients.  
+### Here, I will analyze the relationship between sea ice extent on algal blooms. This will be done using sea ice cover data compared to chl-a data as a proxy for phytoplankton abundance, and nutrient data to understand how the bloom is fueled. The figures produced from this analysis will allow for a better understanding of how reduced sea ice cover under climate change may be effecting the timing of algal blooms. 
 
 
 ## Figures: 
