@@ -9,8 +9,12 @@
 ### Chlorophyll-a Data: https://polarwatch.noaa.gov/erddap/griddap/erdMH1chla1day.html
 
 ## Description:
-### Here, I will analyze the relationship between sea ice extent on algal blooms. This will be done using sea ice cover data compared to chl-a data as a proxy for phytoplankton abundance. The figures produced from this analysis will allow for a better understanding of how reduced sea ice cover under climate change may be effecting the timing of algal blooms and a release of nutrients.  
+### The Arctic is facing warming rates twice that of the global average, increasing threats to ecosystem dynamics. Under heightend warming, it is expected that sea-ice concentration and extent will continue to decrease. One of the most fundamental events within marine ecosystems are seasonal phytoplankton blooms. During these blooms, as more light becomes available, an eruption of phytoplankton growth occurs, serving as the foundation of the marine food web. With sea-ice melting earlier in the season, the timing of phytoplankton blooms will follow suit. This shift in timing however may have other adverse effects on lower trophic levels whose phenology is not dependent on increased sunlight into the photic zone.
+### Using monthly chl-a satellite data as a proxy for phytoplankton abundance, and sea-ice concentrations satellite data, the relationship between sea-ice and chlorophyll-a concentrations will be evaluated. 
 
+## Research Questions: 
+### 1. Does the timing of sea-ice melt reflect formation of phytoplankton bloom?
+### 2. How do regional/coastal analyses compare to overall trends?
 
 ## Figures: 
 ### 1. Mean chlorophyll-a and sea ice concentrations
