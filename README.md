@@ -19,10 +19,9 @@
 ## Figures: 
 ### 1. Mean chlorophyll-a and sea ice concentrations
 ### 2. Mean timeseries comparison over 5 years
-### 3. Max chl-a and min sea-ice concentrations
-### 4. Annual mean chlorophyll-a and sea ice concentration timeseries
-### 5. Summer mean chlorophyll-a and sea ice concentration timeseries
-### 6. Annual and seasonal anomaly calculations
-### 7. Data visualization in Kotzebue Sound
-### 8. Anomaly correlations in Kotzebue Sound
+### 3. Summer mean chlorophyll-a and sea ice concentration timeseries
+### 4. 5 year sea-ice and chlorophyll-a anomalies
+### 5. 5 year, annual and seasonal anomaly correlations
+### 6. Kotzebue Sound data visualization 
+### 7. Kotzebue Sound 5 year, annual, and seasonal anomaly correlations
 
